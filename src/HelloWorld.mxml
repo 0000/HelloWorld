@@ -6,5 +6,5 @@
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
 	</fx:Declarations>
 	<s:Line />
-	<s:Button />
+	<s:Button label="성남"/>
 </s:Application>

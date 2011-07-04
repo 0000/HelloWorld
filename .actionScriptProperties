@@ -15,7 +15,7 @@
   </compiler>
   <applications>
     <application path="HelloWorld.mxml"/>
-    <application path="TestMxml.mxml"/>
+    <application path="JinHwan.mxml"/>
   </applications>
   <modules/>
   <buildCSSFiles/>
